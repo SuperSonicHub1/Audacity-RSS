@@ -6,4 +6,4 @@ Audacity doesn't have an RSS feed for their [blog](https://www.audacityteam.org/
 ```
 poetry install
 python3 main.py
-``
+```
